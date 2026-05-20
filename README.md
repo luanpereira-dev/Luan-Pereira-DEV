@@ -60,22 +60,25 @@ The interface follows a modern premium dashboard architecture inspired by SaaS a
 - Admin Analytics
 - Multi-user Access
 
----
+---------------------
 
 # Developer
 
 Luan Pereira  
 Full Stack Developer
 
----
+---------------------
 
 # Contact
 
-LinkedIn:
-SEU_LINK
+Youtube
+@lsenji
+
+TikTok 
+@lsenji
 
 Instagram:
-SEU_LINK
+@lsenji
 
 GitHub:
 https://github.com/luanpereira-dev
