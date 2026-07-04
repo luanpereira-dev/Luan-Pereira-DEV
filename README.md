@@ -94,7 +94,11 @@ Passionate about Web Development and modern user interfaces.
 
 ---
 
-# 📬 Contact
+<span align="center">
+
+📬 Contact
+
+</span>
 
 **GitHub**
 
