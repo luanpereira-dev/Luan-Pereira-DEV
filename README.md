@@ -19,19 +19,6 @@ Mateus Dental System is a modern clinic management platform designed to simplify
 The project focuses on intuitive navigation, responsive design, clean interfaces and scalable architecture, providing an efficient experience for professionals and patients.
 
 ---
-
-#  Features
-
-- 👤 Patient Registration
-- 📅 Appointment Scheduling
-- 📊 Dashboard Analytics
-- 🔐 Authentication System
-- 💰 Financial Management
-- 📱 Responsive Interface
-- 💬 WhatsApp Integration
-- 🎨 Premium UI Design
-- ⚡ Mobile-First Experience
-
 ---
 
 # 🚀 Technologies
@@ -48,7 +35,7 @@ The project focuses on intuitive navigation, responsive design, clean interfaces
 
 #  Design Concept
 
-The interface follows a premium dashboard style inspired by modern SaaS platforms, emphasizing:
+The interface follows a dashboard style inspired by modern SaaS platforms, emphasizing:
 
 - Clean UI
 - Responsive Layout
@@ -57,31 +44,6 @@ The interface follows a premium dashboard style inspired by modern SaaS platform
 - User Experience (UX)
 
 ---
-
-#  Roadmap
-
-### Version 2.0
-
-- Authentication
-- User Profiles
-- Medical History
-- Responsive Improvements
-
-### Version 3.0
-
-- React Migration
-- REST API
-- Node.js Backend
-- Database Integration
-
-### Version 4.0
-
-- AI Appointment Assistant
-- Online Payments
-- Cloud Synchronization
-- Multi-user Access
-- Reports & Analytics
-
 ---
 
 #  Developer
