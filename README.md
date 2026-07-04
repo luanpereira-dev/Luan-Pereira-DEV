@@ -11,8 +11,11 @@ A modern web application concept focused on dental clinic management, usability 
 </p>
 
 ---
-
+<span align="center">
+    
 # Overview
+
+</span>
 
 Mateus Dental System is a modern clinic management platform designed to simplify daily operations in dental clinics.
 
@@ -20,8 +23,11 @@ The project focuses on intuitive navigation, responsive design, clean interfaces
 
 ---
 ---
+<span align="center">
+    
+# Technologies
 
-# 🚀 Technologies
+</span>
 
 - HTML5
 - CSS3
@@ -32,8 +38,11 @@ The project focuses on intuitive navigation, responsive design, clean interfaces
 > Future versions will include React, Node.js and database integration.
 
 ---
+<span align="center">
 
 #  Design Concept
+
+</span>
 
 The interface follows a dashboard style inspired by modern SaaS platforms, emphasizing:
 
