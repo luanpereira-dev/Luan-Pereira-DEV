@@ -1,5 +1,5 @@
 <h1 align="center">
-Mateus Dental System
+🦷 Mateus Dental System
 </h1>
 
 <h3 align="center">
@@ -7,78 +7,115 @@ Modern Dental Clinic Management Platform
 </h3>
 
 <p align="center">
-Built with React, JavaScript and modern UI/UX architecture.
+A modern web application concept focused on dental clinic management, usability and premium user experience.
 </p>
 
 ---
 
 # Overview
 
-Mateus Dental System is a modern clinic management platform focused on performance, usability and premium experience.
+Mateus Dental System is a modern clinic management platform designed to simplify daily operations in dental clinics.
 
-The project was designed to optimize dental clinic workflows with a scalable and elegant interface.
-
----
-
-# Features
-
-✔ Patient Registration  
-✔ Appointment Scheduling  
-✔ Dashboard Analytics  
-✔ Authentication System  
-✔ Responsive Interface  
-✔ Premium UI/UX  
-✔ Financial Management  
-✔ WhatsApp Integration  
-✔ Mobile First Design  
+The project focuses on intuitive navigation, responsive design, clean interfaces and scalable architecture, providing an efficient experience for professionals and patients.
 
 ---
 
-# Technologies
+#  Features
 
-- React
-- JavaScript
+- 👤 Patient Registration
+- 📅 Appointment Scheduling
+- 📊 Dashboard Analytics
+- 🔐 Authentication System
+- 💰 Financial Management
+- 📱 Responsive Interface
+- 💬 WhatsApp Integration
+- 🎨 Premium UI Design
+- ⚡ Mobile-First Experience
+
+---
+
+# 🚀 Technologies
+
 - HTML5
 - CSS3
-- Node.js
-- Git & GitHub
+- JavaScript
+- Git
+- GitHub
+
+> Future versions will include React, Node.js and database integration.
 
 ---
 
-# UI Concept
+#  Design Concept
 
-The interface follows a modern premium dashboard architecture inspired by SaaS applications and enterprise systems.
+The interface follows a premium dashboard style inspired by modern SaaS platforms, emphasizing:
+
+- Clean UI
+- Responsive Layout
+- Accessibility
+- Performance
+- User Experience (UX)
 
 ---
 
-# Future Updates
+#  Roadmap
 
-- AI Scheduling
-- Smart Notifications
+### Version 2.0
+
+- Authentication
+- User Profiles
+- Medical History
+- Responsive Improvements
+
+### Version 3.0
+
+- React Migration
+- REST API
+- Node.js Backend
+- Database Integration
+
+### Version 4.0
+
+- AI Appointment Assistant
 - Online Payments
-- Cloud Database
-- Admin Analytics
+- Cloud Synchronization
 - Multi-user Access
+- Reports & Analytics
 
----------------------
+---
 
-# Developer
+#  Developer
 
-Luan Pereira  
-Full Stack Developer
+**Luan Pereira**
 
----------------------
+Student of Programming and Systems Development
 
-# Contact
+Passionate about Web Development and modern user interfaces.
 
-Youtube
-@lsenji
+---
 
-TikTok 
-@lsenji
+# 📬 Contact
 
-Instagram:
-@lsenji
+**GitHub**
 
-GitHub:
 https://github.com/luanpereira-dev
+
+**Instagram**
+
+@lsenji
+
+**TikTok**
+
+@lsenji
+
+**YouTube**
+
+@lsenji
+
+---
+
+<p align="center">
+
+ If you like this project, consider giving it a Star.
+
+</p>
