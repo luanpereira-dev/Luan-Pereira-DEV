@@ -58,25 +58,30 @@ Passionate about Web Development and modern user interfaces.
 
 <h1 align="center">
 
-📬 Contact
+Contact
 
 </h1>
 
-**GitHub**
+<p align="center">
 
-https://github.com/luanpereira-dev
 
-**Instagram**
+<a href="https://www.instagram.com/luan_mutasenji?igsh=YmRzNWowcHdlZmhy&utm_source=qr" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-@lsenji
+<a href="https://www.tiktok.com/@l_senji?_r=1&_t=ZS-97kYayhp1hF" target="_blank">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
 
-**TikTok**
+<a href="https://youtube.com/@l-senji?si=ee350OCf7t_9nEWv" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 
-@lsenji
+<a href="https://www.linkedin.com/in/luan-pereira-b61b06195?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-**YouTube**
-
-@lsenji
+</p>
 
 ---
 
