@@ -61,11 +61,15 @@ The interface follows a dashboard style inspired by modern SaaS platforms, empha
 
 </span>
 
+<p align="center"> 
+    
 **Luan Pereira**
 
 Student of Programming and Systems Development
 
 Passionate about Web Development and modern user interfaces.
+
+</p>
 
 ---
 
