@@ -55,7 +55,11 @@ The interface follows a dashboard style inspired by modern SaaS platforms, empha
 ---
 ---
 
+<span align="center">
+    
 #  Developer
+
+</span>
 
 **Luan Pereira**
 
