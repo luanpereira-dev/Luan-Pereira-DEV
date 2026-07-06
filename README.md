@@ -7,7 +7,7 @@ Modern Dental Clinic Management Platform
 </h3>
 
 <p align="center">
-A modern web application concept focused on dental clinic management, usability and premium user experience.
+A modern web application concept focused on dental clinic management, usability and experience.
 </p>
 
 ---
